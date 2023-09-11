@@ -8,7 +8,7 @@
 
    [![Awesome](https://awesome.re/badge.svg)]() 
    [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-   ![](https://img.shields.io/github/last-commit/zjunlp/Generative_KG_Construction_Papers?color=green) 
+   ![](https://img.shields.io/github/last-commit/hongbinye/Cognitive_Mirage?color=green) 
    ![](https://img.shields.io/badge/PRs-Welcome-red) 
  
 </div>
