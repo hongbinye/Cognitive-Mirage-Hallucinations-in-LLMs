@@ -8,7 +8,7 @@
 
    [![Awesome](https://awesome.re/badge.svg)]() 
    [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-   ![](https://img.shields.io/github/last-commit/hongbinye/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs?color=green) 
+   ![](https://img.shields.io/github/last-commit/hongbinye/Cognitive-Mirage-Hallucinations-in-LLMs?color=green) 
    ![](https://img.shields.io/badge/PRs-Welcome-red) 
  
 </div>
@@ -16,6 +16,18 @@
 
 Uncritical trust in LLMs can give rise to a phenomenon `Cognitive Mirage`, leading to misguided decision-making and a cascade of unintended consequences. 
 To effectively control the risk of  `hallucinations`, we summarize recent progress in hallucination theories and solutions in this paper. We propose to organize relevant work by a comprehensive survey.
+
+### 
+**[:bell: News! :bell: ]
+We have released a new survey paper:"[Cognitive Mirage: A Review of Hallucinations in Large Language Models](https://arxiv.org/abs/2309.06794)" based on this repository, with a perspective of Hallucinations in LLMs! We are looking forward to any comments or discussions on this topic :)** 
+
+## 🕵️ Introduction
+
+As large language models continue to develop in the field of AI, text generation systems are susceptible to a worrisome phenomenon known
+as hallucination. In this study, we summarize recent compelling insights into hallucinations in LLMs. We present a novel taxonomy of hallucinations from various text generation tasks, thus provide theoretical insights, detection methods and improvement approaches.
+Based on this, future research directions are proposed. Our contribution are threefold: (1) We provide a detailed and complete taxonomy
+for hallucinations appearing in text generation tasks; (2) We provide theoretical analyses of hallucinations in LLMs and provide existing
+detection and improvement methods; (3) We propose several research directions that can be developed in the future. As hallucinations garner significant attention from the community, we will maintain updates on relevant research progress.
 
 
 
