@@ -114,6 +114,10 @@ detection and improvement methods; (3) We propose several research directions th
     - Xiang Yue, Boshi Wang, Kai Zhang
     - [[Paper]](https://arxiv.org/abs/2305.06311)
 
+  - **"Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning."**, 2023.6
+    - Fuxiao Liu, Kevin Lin, Linjie Li
+    - [[Paper]](https://arxiv.org/abs/2306.14565)
+
 
 ### ✨Knowledge Gap
 
@@ -353,6 +357,10 @@ detection and improvement methods; (3) We propose several research directions th
     - Munan Ning, Yujia Xie, Dongdong Chen
     - [[Paper]](https://doi.org/10.48550/arXiv.2305.12943)
 
+  - **"Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning."**, 2023.6
+    - Fuxiao Liu, Kevin Lin, Linjie Li
+    - [[Paper]](https://arxiv.org/abs/2306.14565)
+
   - **"Fact-Checking of AI-Generated Reports."**, 2023.7
     - Razi Mahmood, Ge Wang, Mannudeep Kalra
     - [[Paper]](https://arxiv.org/abs/2307.14634)
@@ -383,6 +391,10 @@ detection and improvement methods; (3) We propose several research directions th
   - **"HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models."**,  2023.5
     - Junyi Li, Xiaoxue Cheng, Wayne Xin Zhao
     - [[Paper]](https://doi.org/10.48550/arXiv.2305.11747)
+    
+  - **"Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning."**, 2023.6
+    - Fuxiao Liu, Kevin Lin, Linjie Li
+    - [[Paper]](https://arxiv.org/abs/2306.14565)
 
   - **"Fact-Checking of AI-Generated Reports."**, 2023.7
     - Razi Mahmood, Ge Wang, Mannudeep K. Kalra
