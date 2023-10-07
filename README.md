@@ -60,23 +60,21 @@ detection and improvement methods; (3) We propose several research directions th
    
 ## 🏳‍🌈 Definition of Hallucination
 
+  - **"Truthful AI: Developing and governing AI that does not lie."**, 2021.10
+    - Owain Evans, Owen Cotton-Barratt, Lukas Finnveden
+    - [[Paper]](https://arxiv.org/abs/2110.06674)
+
   - **"Survey of Hallucination in Natural Language Generation"**, 2022.2
     - Ziwei Ji, Nayeon Lee, Rita Frieske
     - [[Paper]](https://dblp.org/search?q=Survey%20of%20hallucination%20in%20natural%20language%20generation)
-
+    
+  - **"Context-faithful Prompting for Large Language Models."**, 2023.3
+    - Wenxuan Zhou, Sheng Zhang, Hoifung Poon
+    - [[Paper]](https://arxiv.org/abs/2303.11315)
 
   - **"Do Language Models Know When They’re Hallucinating References?"**, 2023.5
     - Ayush Agrawal, Lester Mackey, Adam Tauman Kalai
     - [[Paper]](https://doi.org/10.48550/arXiv.2305.18248)
-
-  - **"Truthful AI: Developing and governing AI that does not lie."**, 2021.10
-    - Owain Evans, Owen Cotton-Barratt, Lukas Finnveden
-    - [[Paper]](https://arxiv.org/abs/2110.06674)
-    
-  - **"Context-faithful Prompting for Large Language Models."**, 2023.11
-    - Wenxuan Zhou, Sheng Zhang, Hoifung Poon
-    - [[Paper]](https://arxiv.org/abs/2303.11315)
-
 
 ## 🎉 Mechanism Analysis
 
@@ -85,6 +83,14 @@ detection and improvement methods; (3) We propose several research directions th
   - **"Data Distributional Properties Drive Emergent In-Context Learning in Transformers."**, 2022.5 
     - Stephanie C. Y. Chan, Adam Santoro, Andrew K. Lampinen
     - [[Paper]](http://papers.nips.cc/paper_files/paper/2022/hash/77c6ccacfd9962e2307fc64680fc5ace-Abstract-Conference.html)
+
+  - **"Towards Tracing Factual Knowledge in Language Models Back to the Training Data."**, 2022.5
+    - Ekin Akyürek, Tolga Bolukbasi, Frederick Liu
+    - [[Paper]](https://arxiv.org/abs/2205.11482)
+
+  - **"A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity."**, 2023.2
+    - Yejin Bang, Samuel Cahyawijaya, Nayeon Lee
+    - [[Paper]](https://doi.org/10.48550/arXiv.2302.04023)
   
   - **"Hallucinations in Large Multilingual Translation Models."**, 2023.3
     - Nuno Miguel Guerreiro, Duarte M. Alves, Jonas Waldendorf
@@ -97,18 +103,10 @@ detection and improvement methods; (3) We propose several research directions th
   - **"Evaluating Object Hallucination in Large Vision-Language Models."**, 2023.5
     - Yifan Li, Yifan Du, Kun Zhou
     - [[Paper]](https://arxiv.org/abs/2305.10355)
-
-  - **"A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity."**, 2023.2
-    - Yejin Bang, Samuel Cahyawijaya, Nayeon Lee
-    - [[Paper]](https://doi.org/10.48550/arXiv.2302.04023)
     
   - **"Sources of Hallucination by Large Language Models on Inference Tasks."**, 2023.5
     - Nick McKenna, Tianyi Li, Liang Cheng
     - [[Paper]](https://doi.org/10.48550/arXiv.2305.14552)
-  
-  - **"Towards Tracing Factual Knowledge in Language Models Back to the Training Data."**, 2022.5
-    - Ekin Akyürek, Tolga Bolukbasi, Frederick Liu
-    - [[Paper]](https://arxiv.org/abs/2205.11482)
 
   - **"Automatic Evaluation of Attribution by Large Language Models."**, 2023.5
     - Xiang Yue, Boshi Wang, Kai Zhang
@@ -121,41 +119,43 @@ detection and improvement methods; (3) We propose several research directions th
 
 ### ✨Knowledge Gap
 
-  - **"Zero-shot Faithful Factual Error Correction."**, 2023.5
-    - Kung-Hsiang Huang, Hou Pong Chan, Heng Ji
-    - [[Paper]](https://aclanthology.org/2023.acl-long.311)
-  
-  - **"Why Does ChatGPT Fall Short in Answering Questions Faithfully?"**, 2023.4
-    - Shen Zheng, Jie Huang, Kevin Chen-Chuan Chang
-    - [[Paper]](https://arxiv.org/abs/2304.10513)
+
+  - **"A Survey of Knowledge-enhanced Text Generation."**, 2022.1
+    - Wenhao Yu, Chenguang Zhu, Zaitang Li
+    - [[Paper]](https://doi.org/10.1145/3512467)
 
   - **"Attributed Text Generation via Post-hoc Research and Revision."**, 2022.10
     - Luyu Gao, Zhuyun Dai, Panupong Pasupat
     - [[Paper]](https://doi.org/10.48550/arXiv.2210.08726)
-    
+
+  - **"Artificial Hallucinations in ChatGPT: Implications in Scientific Writing."**, 2023.2
+    - Hussam Alkaissi, Samy I McFarlane
+    - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939079/)
+
+  - **"SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models."**, 2023.3
+    - Potsawee Manakul, Adian Liusie, Mark J. F. Gales
+    - [[Paper]](https://doi.org/10.48550/arXiv.2303.08896)
+
+  - **"Why Does ChatGPT Fall Short in Answering Questions Faithfully?"**, 2023.4
+    - Shen Zheng, Jie Huang, Kevin Chen-Chuan Chang
+    - [[Paper]](https://arxiv.org/abs/2304.10513)
+
+  - **"Zero-shot Faithful Factual Error Correction."**, 2023.5
+    - Kung-Hsiang Huang, Hou Pong Chan, Heng Ji
+    - [[Paper]](https://aclanthology.org/2023.acl-long.311)
+
   - **"Mitigating Language Model Hallucination with Interactive Question-Knowledge Alignment."**, 2023.5
     - Shuo Zhang, Liangming Pan, Junzhou Zhao
     - [[Paper]](https://arxiv.org/abs/2305.13669)
+
+  - **"Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Clashes."**, 2023.5
+    - Jian Xie, Kai Zhang, Jiangjie Chen
+    - [[Paper]](https://arxiv.org/abs/2305.13300)
 
   - **"Evaluating Generative Models for Graph-to-Text Generation."**, 2023.7
     - huzhou Yuan, Michael Färber
     - [[Paper]](https://doi.org/10.48550/arXiv.2307.14712)
 
-  - **"A Survey of Knowledge-enhanced Text Generation."**, 2022.1
-    - Wenhao Yu, Chenguang Zhu, Zaitang Li
-    - [[Paper]](https://doi.org/10.1145/3512467)
-  
-  - **"SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models."**, 2023.3
-    - Potsawee Manakul, Adian Liusie, Mark J. F. Gales
-    - [[Paper]](https://doi.org/10.48550/arXiv.2303.08896)
-
-  - **"Artificial Hallucinations in ChatGPT: Implications in Scientific Writing."**, 2023.2
-    - Hussam Alkaissi, Samy I McFarlane
-    - [[Paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939079/)
-    
-  - **"Adaptive Chameleon or Stubborn Sloth: Unraveling the Behavior of Large Language Models in Knowledge Clashes."**, 2023.5
-    - Jian Xie, Kai Zhang, Jiangjie Chen
-    - [[Paper]](https://arxiv.org/abs/2305.13300)
 
   - **"Overthinking the Truth: Understanding how Language Models Process False Demonstrations."**, 2023.7
     - Danny Halawi, Jean-Stanislas Denain, Jacob Steinhardt
@@ -164,9 +164,6 @@ detection and improvement methods; (3) We propose several research directions th
    
 ### ✨Optimum Formulation
 
-  - **"Improving Language Models via Plug-and-Play Retrieval Feedback."**, 2023.5
-    - Wenhao Yu, Zhihan Zhang, Zhenwen Liang
-    - [[Paper]](https://doi.org/10.48550/arXiv.2305.14002)
   
   - **"Improved Natural Language Generation via Loss Truncation."**, 2020.5
     - Daniel Kang, Tatsunori Hashimoto
@@ -192,6 +189,9 @@ detection and improvement methods; (3) We propose several research directions th
     - Muru Zhang, Ofir Press, William Merrill
     - [[Paper]](https://doi.org/10.48550/arXiv.2305.13534)
 
+  - **"Improving Language Models via Plug-and-Play Retrieval Feedback."**, 2023.5
+    - Wenhao Yu, Zhihan Zhang, Zhenwen Liang
+    - [[Paper]](https://doi.org/10.48550/arXiv.2305.14002)
 
 ## 🪁Taxonomy of LLMs Hallucination in NLP tasks
  
@@ -314,7 +314,9 @@ detection and improvement methods; (3) We propose several research directions th
     - Jing Fan, Dennis Aumiller, Michael Gertz
     - [[Paper]](https://arxiv.org/abs/2305.13309)
 
-
+  - **"Summarization is (Almost) Dead."**, 2023.9
+    - Xiao Pu, Mingqi Gao, Xiaojun Wan
+    - [[Paper]](https://arxiv.org/abs/2309.09558)
 
 ###  ✨Knowledge Graphs with LLMs 
 
@@ -586,6 +588,10 @@ detection and improvement methods; (3) We propose several research directions th
   - **"Verify-and-Edit: A Knowledge-Enhanced Chain-of-Thought Framework."**, 2023.5
     - Ruochen Zhao, Xingxuan Li, Shafiq Joty
     - [[Paper]](https://arxiv.org/abs/2305.03268)
+
+  - **"Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning."**, 2023.9
+    - Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu
+    - [[Paper]](https://arxiv.org/abs/2309.11495)
 
 
 ### ✨Utilizing Programming Languages
