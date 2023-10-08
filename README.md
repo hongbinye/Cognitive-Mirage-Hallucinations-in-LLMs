@@ -538,6 +538,11 @@ detection and improvement methods; (3) We propose several research directions th
     - Peng Wang, Ningyu Zhang, Xin Xie
     - [[Paper]](https://arxiv.org/abs/2308.07269)
 
+  - **"DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models"**, 2023.9
+    - Yung-Sung Chuang, Yujia Xie, Hongyin Luo
+    - [[Paper]](https://arxiv.org/abs/2309.03883)
+
+
     
 ### ✨Post-hoc Attribution and Edit Technology
 
