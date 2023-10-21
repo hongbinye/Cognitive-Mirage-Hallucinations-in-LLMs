@@ -193,6 +193,11 @@ detection and improvement methods; (3) We propose several research directions th
     - Wenhao Yu, Zhihan Zhang, Zhenwen Liang
     - [[Paper]](https://doi.org/10.48550/arXiv.2305.14002)
 
+  - **"Teaching Language Models to Hallucinate Less with Synthetic Tasks."**, 2023.10
+    - Erik Jones, Hamid Palangi, Clarisse Simões
+    - [[Paper]](https://arxiv.org/abs/2310.06827)
+
+
 ## 🪁Taxonomy of LLMs Hallucination in NLP tasks
  
 ### ✨Machine  Translation
@@ -402,6 +407,10 @@ detection and improvement methods; (3) We propose several research directions th
     - Razi Mahmood, Ge Wang, Mannudeep K. Kalra
     - [[Paper]](https://doi.org/10.48550/arXiv.2307.14634)
 
+  - **"Chain of Natural Language Inference for Reducing Large Language Model Ungrounded Hallucinations."**, 2023.10
+    - Deren Lei, Yaxi Li, Mengya Hu
+    - [[Paper]](https://arxiv.org/abs/2310.03951)
+
     
 
 ### ✨Uncertainty Measure
@@ -466,6 +475,9 @@ detection and improvement methods; (3) We propose several research directions th
     - Niels Mündler, Jingxuan He, Slobodan Jenko
     - [[Paper]](https://arxiv.org/abs/2305.15852)
 
+  - **"A New Benchmark and Reverse Validation Method for Passage-level Hallucination Detection."**, 2023.10
+    - Shiping Yang, Renliang Sun, Xiaojun Wan
+    - [[Paper]](https://arxiv.org/abs/2310.06498)
 
 ### ✨Evidence Retrieval
 
@@ -597,6 +609,10 @@ detection and improvement methods; (3) We propose several research directions th
   - **"Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning."**, 2023.9
     - Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu
     - [[Paper]](https://arxiv.org/abs/2309.11495)
+
+  - **"Chain of Natural Language Inference for Reducing Large Language Model Ungrounded Hallucinations."**, 2023.10
+    - Deren Lei, Yaxi Li, Mengya Hu
+    - [[Paper]](https://arxiv.org/abs/2310.03951)
 
 
 ### ✨Utilizing Programming Languages
@@ -736,6 +752,10 @@ detection and improvement methods; (3) We propose several research directions th
   - **"Improving Factuality of Abstractive Summarization via Contrastive Reward Learning."**,  2023.7
     - I-Chun Chern, Zhiruo Wang, Sanjan Das
     - [[Paper]](https://doi.org/10.48550/arXiv.2307.04507)
+
+  - **"Towards Mitigating Hallucination in Large Language Models via Self-Reflection."**,  2023.10
+    - Ziwei Ji, Tiezheng Yu, Yan Xu
+    - [[Paper]](https://arxiv.org/abs/2310.06271)
 
 
 ### ✨Mindset Society
