@@ -554,6 +554,14 @@ detection and improvement methods; (3) We propose several research directions th
     - Yung-Sung Chuang, Yujia Xie, Hongyin Luo
     - [[Paper]](https://arxiv.org/abs/2309.03883)
 
+  - **"ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation."**, 2025.2
+    - Pengcheng Huang, Zhenghao Liu, Yukun Yan
+    - [[Paper]](https://openreview.net/forum?id=CyUq9D99vE)
+
+  - **"SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation."**, 2026.6
+    - Ruochang Li, Pengcheng Huang, Zhenghao Liu
+    - [[Paper]](https://arxiv.org/abs/2606.27786)
+
 
     
 ### ✨Post-hoc Attribution and Edit Technology
